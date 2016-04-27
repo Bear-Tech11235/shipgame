@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Beartech/Documents/Visual Studio 2015/Projects/Game2/Game2/Content/spaceship1.png</File>
+    <File>D:/Beartech/Documents/Visual Studio 2015/Projects/Game2/Game2/Content/spaceship0.png</File>
+    <File>D:/Beartech/Documents/Visual Studio 2015/Projects/Game2/Game2/Content/spaceship3.png</File>
+    <File>D:/Beartech/Documents/Visual Studio 2015/Projects/Game2/Game2/Content/spaceship4.png</File>
+  </SourceFiles>
+</SourceFileCollection>
